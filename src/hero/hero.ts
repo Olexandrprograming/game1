@@ -1,5 +1,5 @@
-import { Vector2D } from "utils/vector";
-import { Weather } from "weather/weather";
+import { Vector2D } from "../utils/vector";
+import { Weather } from "../weather/weather";
 import "p5";
 
 class Inventory {

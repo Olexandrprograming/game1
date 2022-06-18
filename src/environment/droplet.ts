@@ -1,6 +1,6 @@
 import "p5";
-import { Vector2D } from "utils/vector";
-import { Hero } from "hero/hero"
+import { Vector2D } from "../utils/vector";
+import { Hero } from "../hero/hero"
 /**
  * TODO-1: think about how to destroy an object when
  * it reaches end of the canvas.

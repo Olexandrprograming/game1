@@ -1,4 +1,4 @@
-import { Vector2D } from "utils/vector";
+import { Vector2D } from "../utils/vector";
 
 export class Obstacle {
   public position: Vector2D;
