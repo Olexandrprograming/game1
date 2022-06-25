@@ -79,3 +79,23 @@ export class Hero {
 
   }
 }
+function keyIsDown(RIGHT_ARROW: any) {
+  throw new Error("Function not implemented.");
+}
+
+function RIGHT_ARROW(RIGHT_ARROW: any) {
+  throw new Error("Function not implemented.");
+}
+
+function LEFT_ARROW(LEFT_ARROW: any) {
+  throw new Error("Function not implemented.");
+}
+
+function fill(arg0: string) {
+  throw new Error("Function not implemented.");
+}
+
+function rect(x: any, y: any, arg2: number, arg3: number) {
+  throw new Error("Function not implemented.");
+}
+
